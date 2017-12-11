@@ -1,7 +1,8 @@
 package entities;
 
-import java.time.LocalTime;
+import java.time.*;
 import java.time.temporal.ChronoUnit;
+
 
 public class FlightEntity {  // IMMUTABLE POJO
     final private int id;
